@@ -1,1 +1,2 @@
 Hello Hackathon !
+I am learning git and GitHub for hackathons.
